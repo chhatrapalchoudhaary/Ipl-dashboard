@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.team-container {
+  width: 100vw;
+  min-height: 800px;
+  background-color: blueviolet;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 20px;
+}
+.inner-container {
+  width: 80%;
+}
+
+.latest-matches {
+  font-size: 22px;
+  color: white;
+}

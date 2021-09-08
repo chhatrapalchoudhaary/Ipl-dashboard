@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.match-detail-container {
+  background-color: #1e293b;
+  width: 100%;
+  min-height: 300px;
+  border-radius: 20px;
+  padding: 20px;
+}
+.team-name {
+  color: white;
+  font-size: 32px;
+}
+.sub-detail {
+  color: white;
+  font-size: 22px;
+}
+.sub-detail-bold {
+  color: white;
+  font-size: 22px;
+  font-weight: 700;
+}
+.competing-team-logo {
+  height: 200px;
+}
+
+.top-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 30px;
+}
+.detail-section {
+  width: 70%;
+}
+
+hr {
+  background-color: white;
+  border-color: white;
+}
+.match-other-details {
+  padding: 20px;
+}
